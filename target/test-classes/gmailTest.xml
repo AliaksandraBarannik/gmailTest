@@ -1,9 +1,0 @@
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-
-<suite name="gmailTestSuite" verbose="1">
-    <test name="gmailTestSuite">
-        <classes>
-            <class name="gmail.com.tests.GmailTest"/>
-        </classes>
-    </test>
-</suite>
